@@ -31,7 +31,12 @@ The layout is ready. Also, we had the information on its styling as per CSSOM. A
 The final step includes combining all painted layers and rendering everything on the screen optimally.
 <br>
 
-> Point to remember: If there is JavaScript linked to your HTML page as well, it will perform its action on DOM before the page is rendered. The reason we should use the script tag at the end of the body is that DOM construction is stopped once the browser finds the script tag and gives priority to executing the script first.
+<sub>*DOM Tree*</sub>
+
+![DOM Tree](domVisual.gif)
+<br>
+
+`Point to remember: If there is JavaScript linked to your HTML page as well, it will perform its action on DOM before the page is rendered. The reason we should use the script tag at the end of the body is that DOM construction is stopped once the browser finds the script tag and gives priority to executing the script first.`
 
 ### References
 
@@ -40,3 +45,4 @@ The final step includes combining all painted layers and rendering everything on
 [Quora- How browsers render CSS/html](https://www.quora.com/How-do-browsers-render-HTML-CSS)
 
 [Blog](https://starkie.dev/blog/how-a-browser-renders-a-web-page)
+
