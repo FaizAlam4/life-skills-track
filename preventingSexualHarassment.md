@@ -1,7 +1,6 @@
  ### 1. What kinds of behaviour cause sexual harassment?
 
-**Answer**-
-Any unwelcomed behavior that is provocative and intimidating and makes the environment too hostile and toxic to work can be included in sexual harassment.
+**Answer**- Any unwelcomed behavior that is provocative and intimidating and makes the environment too hostile and toxic to work can be included in sexual harassment.
 
 * These could be like
     - Touching without consent
@@ -13,8 +12,7 @@ Any unwelcomed behavior that is provocative and intimidating and makes the envir
 
 ###  2. What would you do in case you face or witness any incident or repeated incidents of such behavior?
 
- **Answer**-  
-I'll take the following steps :
+ **Answer**- I'll take the following steps :
 1. Understand my employee rights properly for a workplace 
 2. Taking my stance in front of the perpetrator
 3. Reporting to the authorities (if perpetrator doesn't stop)
