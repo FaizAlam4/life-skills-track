@@ -3,14 +3,17 @@
 
 **1. Paraphrase (summarize) the grit video in a few (1 or 2) lines. Use your own words.**
 **Answer:**  Grittier people achieve their goals and anyone can be gritty irrespective of their intelligence, physique, or looks.
+
 <br>
 
 **2. Paraphrase (summarize) the growth mindset video in a few (1 or 2) lines in your own words.**
 **Answer:** The Growth mindset is something that is not confined to a fixed perception, rather it is broad and incorporates self-belief.
+
 <br>
 
 **3. What is the Internal Locus of Control? What is the key point in the video?**
 **Answer:** When you start to believe that the superpower is within you and you can control the outcomes with your hard work, that is called the internal locus of control. The key point is to understand that normally people with internal locus of control feel motivated throughout and perform well whereas those with external locus of control lose motivation easily because they think their destiny depends upon external or god-gifted factors.
+
 <br>
 
 **4. What are the key points mentioned by speaker to build growth mindset (explanation not needed)**
