@@ -22,9 +22,8 @@
 **5. What are your ideas to take action and build Growth Mindset?**
 **Answer:** 
 
-- My ideas are as follows:-
-    - Take feedback positively to learn more 
-    - Never doubt myself that I can't do something
-    - Accept failures and move on quickly
-    - Having faith in discipline rather than just motivation
-    - Enjoy the work and take it as a challenge to crack
+- Take feedback positively to learn more 
+- Never doubt myself that I can't do something
+- Accept failures and move on quickly
+- Having faith in discipline rather than justmotivation
+- Enjoy the work and take it as a challenge to crack
